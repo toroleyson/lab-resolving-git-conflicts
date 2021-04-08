@@ -1,7 +1,16 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque viverra laoreet lorem et dapibus. Integer auctor dignissim egestas. Ut id purus neque. Pellentesque imperdiet lacus in libero laoreet, at tempus felis tristique. Cras fermentum erat a dui vulputate gravida. Nulla aliquet nisi interdum nulla pretium, ac vestibulum diam congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus lacus risus, sodales vitae viverra quis, maximus ac ipsum. Sed consequat viverra mattis. Curabitur iaculis varius mollis.
+Soy Arnoldo Leyson Meeser
 
-Ut porttitor iaculis tellus bibendum euismod. Morbi porta, ante nec tempus porta, felis mi faucibus lacus, sed tristique purus nunc sed est. Aenean pulvinar urna ut lacus interdum aliquam. Pellentesque sit amet magna accumsan, sagittis metus a, volutpat velit. Mauris vitae ex vehicula, posuere nisi sed, sagittis nunc. Ut scelerisque, mi non tristique tristique, mi enim luctus nunc, eu mattis sem quam auctor nunc. Donec lobortis tellus eget blandit ultricies. Vivamus euismod metus eget leo blandit, at malesuada magna efficitur. Praesent sodales faucibus mi, ullamcorper ultrices orci. Vivamus maximus malesuada massa, nec placerat leo feugiat vel. Nam vitae eleifend enim. Nullam interdum ipsum velit, vitae faucibus lectus blandit euismod.
+Soy de Sinaloa, Mexico
+Soy financiero con experiencia en licitaciones públicas en gobierno
+No tengo experiencia previa en data analysis
 
-Suspendisse ut malesuada ex. Nulla ultricies nisl et nisi rhoncus sollicitudin. Vestibulum maximus iaculis ligula, nec commodo nunc ullamcorper nec. Duis quis condimentum sapien. Cras vestibulum interdum felis eu auctor. Quisque semper, magna at dapibus faucibus, felis risus semper ligula, id aliquam lectus ligula vel nisi. In hac habitasse platea dictumst. Donec arcu sapien, suscipit ac dictum et, imperdiet id tortor. Maecenas ornare sodales interdum. Mauris dictum felis eu eros vestibulum cursus. Phasellus accumsan, turpis ut malesuada sollicitudin, augue leo venenatis ante, vel convallis tellus diam sit amet lacus. Aenean eu mauris eros. Praesent ante lacus, gravida sit amet tellus nec, laoreet ultrices lacus. Integer commodo semper vestibulum. Fusce felis massa, consectetur facilisis rutrum nec, pulvinar et nisi.
+Estoy en este bootcamp para aprender nuevos skills y cambiar de giro laboral o emprender algun proyecto propio
 
-Morbi fermentum ultricies tortor, vehicula ultrices eros elementum a. Duis ornare aliquam facilisis. Proin aliquam tincidunt odio vitae dignissim. Sed malesuada lacinia massa, nec blandit urna auctor elementum. Duis auctor non tortor in consequat. Mauris id vestibulum risus. In eget erat sed lacus efficitur viverra sed eu est. Aliquam interdum consequat molestie. Aliquam metus nisi, blandit non semper ut, blandit vel leo. Cras dictum turpis erat, sed iaculis ligula facilisis dapibus. Aliquam posuere dignissim fermentum. Praesent at neque sit amet lectus ornare iaculis. Curabitur id urna quis lorem varius ultrices eu sit amet sapien. Curabitur maximus volutpat suscipit. Proin imperdiet elementum lacus a eleifend. Sed tempor lacus posuere diam vehicula iaculis.
+Un amigo me recomendó el curso de Ironhack por lo que las buenas referencias me hicieron inscribirme
+Espero aprender algo de programación, majeo de python, skills de analisis de datos, etc
+
+Al terminar el bootcamp intentaré seguir aprendiendo del tema y poner en practica los conocimientos en el mundo laboral
+
+Me gustaría buscar empleo en el sector financiero o en las empresas como uber, didi, etc
+Mi rol a futuro seria muy similar a la de un Director Administrativo y o Financiero de una empresa
+Mi meta profesionalmente es poder materializar mis conocimientos y capacidades en un trabajo que sea de mi agrado
